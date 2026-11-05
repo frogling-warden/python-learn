@@ -12,3 +12,6 @@ print("My second Commit")
 print("Third Commit")
 
 print("Fourth Commit")
+
+hp = 100
+print(f"HP: {hp}")
