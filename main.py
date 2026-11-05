@@ -2,7 +2,7 @@
 
 
 
-gold = 150
+gold = 100
 new_gold = gold/2
 
 print(new_gold)
