@@ -13,5 +13,5 @@ print("Third Commit")
 
 print("Fourth Commit")
 
-hp = 150
+hp = 175
 print(f"HP: {hp}")
